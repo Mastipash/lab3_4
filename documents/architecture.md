@@ -8,7 +8,8 @@
 ![](https://pp.userapi.com/c837425/v837425425/261ca/dfi0JiJjw4o.jpg) ![](https://pp.userapi.com/c837425/v837425425/261aa/mKPocvl9Ho0.jpg) ![](https://pp.userapi.com/c837425/v837425425/261b2/w9iIvYaJo4Q.jpg)
 
 ### Меню ###
-![](https://pp.userapi.com/c837425/v837425425/2621a/B4E7QyyJU7s.jpg "Оранжевым подсвечивается то, где находимся")
+![](https://pp.userapi.com/c837425/v837425425/26395/z01l3sehels.jpg "Оранжевым подсвечивается то, где находимся.
+Изначально все серого цвета.")
 
 ### Профиль пользователя ###
 ![](https://pp.userapi.com/c837425/v837425425/25e10/Tv7jYd7GmP8.jpg "Сразу после регистрации") ![](https://pp.userapi.com/c837425/v837425425/25e18/RrXagAHDkfY.jpg "Пример после редактирования")
