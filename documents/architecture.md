@@ -1,3 +1,11 @@
+## Диаграмма прецедентов ##
+![](https://pp.userapi.com/c837425/v837425425/267cd/eOguE7tFOlo.jpg "<<i>> as <<include>>")
+## Диаграмма сущность-связь ##
+![](https://pp.userapi.com/c837425/v837425425/267c3/BtkL1yjSJwc.jpg)
+## Диаграмма классов ##
+![](https://pp.userapi.com/c837425/v837425425/267a6/e_q4XlgoCj0.jpg)
+
+## Макеты интерфейса ##
 ### Авторизация ###
 ![](https://pp.userapi.com/c837425/v837425425/25e90/wJkhYafOo7k.jpg "Поля не заполнены")
 
