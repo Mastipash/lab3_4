@@ -1,9 +1,9 @@
 ## Диаграмма прецедентов ##
-![](https://pp.userapi.com/c837425/v837425425/267cd/eOguE7tFOlo.jpg "<<i>> as <<include>>")
+![](https://pp.userapi.com/c837425/v837425425/26832/KYUAiq8mcDA.jpg)
 ## Диаграмма сущность-связь ##
-![](https://pp.userapi.com/c837425/v837425425/267c3/BtkL1yjSJwc.jpg)
+![](https://pp.userapi.com/c837425/v837425425/2681f/55kP37x40-c.jpg)
 ## Диаграмма классов ##
-![](https://pp.userapi.com/c837425/v837425425/267a6/e_q4XlgoCj0.jpg)
+![](https://pp.userapi.com/c837425/v837425425/26828/aKe9-1WvzrM.jpg)
 
 ## Макеты интерфейса ##
 ### Авторизация ###
